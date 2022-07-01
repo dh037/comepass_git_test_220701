@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dmon/Documents/development/IntelliJ/comepass/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/dmon/.gradle/caches/transforms-3/a7317bee857acd4ea19f0d56e2a92818/transformed/appcompat-1.0.2/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "656,726,810,894,990,1092,1194",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "721,805,889,985,1087,1189,1283"
+                    }
+                },
+                {
+                    "source": "/Users/dmon/.gradle/caches/transforms-3/aac3d3fb2eef954abe5bcde18a1c9bf7/transformed/jetified-oauth-jdk8-5.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,120",
+                        "endColumns": "64,58",
+                        "endOffsets": "115,174"
+                    }
+                },
+                {
+                    "source": "/Users/dmon/Documents/development/IntelliJ/comepass/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,981"
+                    },
+                    "to": {
+                        "startLines": "4,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "179,487",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "482,651"
+                    }
+                }
+            ]
+        }
+    ]
+}
